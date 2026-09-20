@@ -36,7 +36,7 @@ export default async function DashboardPage() {
       <div className="mb-10 flex items-end justify-between gap-4">
         <div>
           <p className="text-sm font-medium tracking-wide text-sage">Dashboard</p>
-          <h1 className="mt-2 font-serif text-3xl">Consultations</h1>
+          <h1 className="mt-2 font-serif text-3xl">Bookings</h1>
         </div>
         <form action={signOut}>
           <button className="rounded-lg border border-ink/20 px-4 py-2 text-sm text-ink/70 hover:border-ink/40">
